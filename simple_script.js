@@ -10,4 +10,4 @@ let num1 = 5;
 let num2 = 7;
 
 let result = addNumbers(num1, num2);
-console.log("The sum is: " + result);
+console.log("The sum is: rged dvdfvdvffdvfdfrvd" + result);
